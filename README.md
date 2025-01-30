@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/codepath-org-YSxPMUu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a src='https://imgur.com/a/YSxPMUu' title='Video Walkthrough' width='' alt='Video Walkthrough'>GIF Walkthrough Link</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
